@@ -1,0 +1,15 @@
+{
+  "description": "Autonomous Loop phase-aware stop hook for structured engineering loops",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/stop-hook.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

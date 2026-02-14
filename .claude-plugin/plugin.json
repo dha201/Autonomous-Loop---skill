@@ -1,0 +1,8 @@
+{
+  "name": "autonomous-loop",
+  "version": "1.0.0",
+  "description": "Phase-aware autonomous engineering loop combining Ralph Loop persistence with Compound Engineering workflows. JSON state for crash recovery, re-anchoring to prevent drift, receipt-based gating, and structured phase transitions (brainstorm → plan → work → review → fix → compound → test → ship).",
+  "author": {
+    "name": "Custom"
+  }
+}
